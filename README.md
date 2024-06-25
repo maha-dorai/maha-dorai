@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clanferona.com%2F%3Fu%3Dcreate-looping-lofi-gif-for-your-music-xx-NbObekf7&psig=AOvVaw2QdGVqkDVsOUz_QBPt-Wgn&ust=1719435395783000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDQ_pHS94YDFQAAAAAdAAAAABAg)
+![logo](https://github.com/maha-dorai/maha-dorai/blob/main/fbaf443c014bf40b95cfa35121572b25.gif)
 <h1 align="center"> Hi 👋, I'm Maha</h1>
 <h3 align="center">A passionate FullStack Developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
